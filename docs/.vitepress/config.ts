@@ -1,10 +1,10 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'FastAPI-Vue-Admin',
+  title: 'GradTradePlatform',
   description: '基于 FastAPI + Vue 3 的现代化后台管理系统模板',
   lang: 'zh-CN',
-  base: '/FastAPI-Vue-Admin/',
+  base: '/GradTradePlatform/',
 
   ignoreDeadLinks: [
     /^http:\/\/localhost/,
@@ -12,11 +12,11 @@ export default defineConfig({
   ],
 
   sitemap: {
-    hostname: 'https://sonderzhong.github.io/FastAPI-Vue-Admin/'
+    hostname: 'https://sonderzhong.github.io/GradTradePlatform/'
   },
 
   head: [
-    ['link', { rel: 'icon', href: '/FastAPI-Vue-Admin/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/GradTradePlatform/favicon.ico' }]
   ],
 
   markdown: {
@@ -33,7 +33,7 @@ export default defineConfig({
       {
         text: '相关链接',
         items: [
-          { text: 'GitHub', link: 'https://github.com/SonderZhong/FastAPI-Vue-Admin' },
+          { text: 'GitHub', link: 'https://github.com/SonderZhong/GradTradePlatform' },
           { text: '在线演示', link: 'https://fva.hygc.site' },
           { text: 'Art Design Pro', link: 'https://github.com/Daymychen/art-design-pro' },
           { text: 'FastAPI', link: 'https://fastapi.tiangolo.com' },
@@ -100,7 +100,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/SonderZhong/FastAPI-Vue-Admin' }
+      { icon: 'github', link: 'https://github.com/SonderZhong/GradTradePlatform' }
     ],
 
     footer: {

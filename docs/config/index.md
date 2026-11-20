@@ -8,7 +8,7 @@
 # 应用核心配置
 app:
   env: dev                      # 环境：dev/prod
-  name: FastAPI-Vue-Admin       # 应用名称
+  name: GradTradePlatform       # 应用名称
   api_prefix: /dev-api          # API 前缀
   api_status_enabled: true      # 是否启用 API 文档
   host: 0.0.0.0                 # 监听地址
@@ -89,7 +89,7 @@ map:
 | 配置项 | 类型 | 默认值 | 说明 |
 |--------|------|--------|------|
 | `env` | string | dev | 运行环境：`dev` 开发 / `prod` 生产 |
-| `name` | string | FastAPI-Vue-Admin | 应用名称，用于文档标题等 |
+| `name` | string | GradTradePlatform | 应用名称，用于文档标题等 |
 | `api_prefix` | string | /dev-api | API 路径前缀 |
 | `api_status_enabled` | bool | true | 是否启用 Swagger 文档 |
 | `host` | string | 0.0.0.0 | 监听地址 |

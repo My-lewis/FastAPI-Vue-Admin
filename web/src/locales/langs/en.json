@@ -137,7 +137,7 @@
   },
   "login": {
     "leftView": {
-      "title": "FastAPI-Vue-Admin",
+      "title": "GradTradePlatform",
       "subTitle": "Modern admin system template built with FastAPI + Tortoise-ORM + Vue 3 + Element Plus"
     },
     "title": "Welcome back",
@@ -259,7 +259,7 @@
   },
   "register": {
     "title": "Create account",
-    "subTitle": "Welcome to FastAPI-Vue-Admin, please fill in the following information to complete the registration",
+    "subTitle": "Welcome to GradTradePlatform, please fill in the following information to complete the registration",
     "steps": {
       "basic": "Basic Information",
       "additional": "Additional Information"

@@ -73,8 +73,8 @@ MCP 配置必须使用**绝对路径**，包括：
 {
   "mcpServers": {
     "fva-helper": {
-      "command": "E:/projects/fastapi-vue-admin/server/venv/Scripts/python.exe",
-      "args": ["E:/projects/fastapi-vue-admin/server/fva_mcp/server.py"],
+      "command": "E:/projects/GradTradePlatform/server/venv/Scripts/python.exe",
+      "args": ["E:/projects/GradTradePlatform/server/fva_mcp/server.py"],
       "env": {},
       "disabled": false,
       "autoApprove": [
@@ -97,8 +97,8 @@ MCP 配置必须使用**绝对路径**，包括：
 {
   "mcpServers": {
     "fva-helper": {
-      "command": "/home/user/projects/fastapi-vue-admin/server/venv/bin/python",
-      "args": ["/home/user/projects/fastapi-vue-admin/server/fva_mcp/server.py"],
+      "command": "/home/user/projects/GradTradePlatform/server/venv/bin/python",
+      "args": ["/home/user/projects/GradTradePlatform/server/fva_mcp/server.py"],
       "env": {},
       "disabled": false,
       "autoApprove": [
@@ -129,8 +129,8 @@ MCP 配置必须使用**绝对路径**，包括：
 {
   "mcpServers": {
     "fva-helper": {
-      "command": "E:/projects/fastapi-vue-admin/server/venv/Scripts/python.exe",
-      "args": ["E:/projects/fastapi-vue-admin/server/fva_mcp/server.py"],
+      "command": "E:/projects/GradTradePlatform/server/venv/Scripts/python.exe",
+      "args": ["E:/projects/GradTradePlatform/server/fva_mcp/server.py"],
       "env": {},
       "disabled": false,
       "autoApprove": [
@@ -153,8 +153,8 @@ MCP 配置必须使用**绝对路径**，包括：
 {
   "mcpServers": {
     "fva-helper": {
-      "command": "/home/user/projects/fastapi-vue-admin/server/venv/bin/python",
-      "args": ["/home/user/projects/fastapi-vue-admin/server/fva_mcp/server.py"],
+      "command": "/home/user/projects/GradTradePlatform/server/venv/bin/python",
+      "args": ["/home/user/projects/GradTradePlatform/server/fva_mcp/server.py"],
       "env": {},
       "disabled": false,
       "autoApprove": [
@@ -179,9 +179,9 @@ MCP 配置必须使用**绝对路径**，包括：
 
 | 操作系统 | Python 路径示例 |
 |---------|----------------|
-| Windows (venv) | `E:/projects/fastapi-vue-admin/server/venv/Scripts/python.exe` |
+| Windows (venv) | `E:/projects/GradTradePlatform/server/venv/Scripts/python.exe` |
 | Windows (系统) | `C:/Python311/python.exe` |
-| Linux/Mac (venv) | `/home/user/projects/fastapi-vue-admin/server/venv/bin/python` |
+| Linux/Mac (venv) | `/home/user/projects/GradTradePlatform/server/venv/bin/python` |
 | Linux/Mac (系统) | `/usr/bin/python3` |
 
 ::: tip 如何获取路径

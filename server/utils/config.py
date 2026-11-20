@@ -47,7 +47,7 @@ class AppSettings(BaseConfig):
     影响应用的行为模式和配置加载策略
     """
 
-    name: str = 'FastAPI-Vue-Admin'
+    name: str = 'GradTradePlatform'
     """
     应用名称
     用于接口文档标题、日志输出、服务标识等场景
@@ -137,7 +137,7 @@ class JwtSettings(BaseConfig):
     JWT认证配置类
     管理用户身份令牌的生成、验证参数
     """
-    secret_key: str = 'FastAPI-Vue-Admin'
+    secret_key: str = 'GradTradePlatform'
     """
     JWT令牌签名密钥（敏感信息！必须设置）
     用于加密和解密令牌，确保令牌不被篡改
@@ -154,7 +154,7 @@ class JwtSettings(BaseConfig):
     生产环境建议根据部署架构选择合适算法
     """
 
-    salt: str = 'FastAPI-Vue-Admin'
+    salt: str = 'GradTradePlatform'
     """
     JWT加盐值
     与secret_key配合使用，增强签名安全性，抵御彩虹表攻击

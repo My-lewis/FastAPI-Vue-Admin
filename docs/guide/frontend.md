@@ -1,6 +1,6 @@
 # 🎨 前端知识库
 
-FastAPI-Vue-Admin 前端基于 **Vue 3 + TypeScript + Vite + Element Plus** 构建，采用现代化的前端开发技术栈。
+GradTradePlatform 前端基于 **Vue 3 + TypeScript + Vite + Element Plus** 构建，采用现代化的前端开发技术栈。
 
 ## 🚀 技术栈
 

@@ -2,7 +2,7 @@
 
 ## 默认数据库
 
-FastAPI-Vue-Admin 默认使用 **SQLite** 作为数据库，无需额外安装和配置数据库服务。
+GradTradePlatform 默认使用 **SQLite** 作为数据库，无需额外安装和配置数据库服务。
 
 SQLite 是一个轻量级的嵌入式数据库，适合：
 - 开发和测试环境

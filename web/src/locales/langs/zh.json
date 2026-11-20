@@ -137,7 +137,7 @@
   },
   "login": {
     "leftView": {
-      "title": "FastAPI-Vue-Admin",
+      "title": "GradTradePlatform",
       "subTitle": "基于 FastAPI + Tortoise-ORM + Vue 3 + Element Plus 的现代化后台管理系统模板"
     },
     "title": "欢迎回来",
@@ -259,7 +259,7 @@
   },
   "register": {
     "title": "创建账号",
-    "subTitle": "欢迎使用 FastAPI-Vue-Admin，请填写以下信息完成注册",
+    "subTitle": "欢迎使用 GradTradePlatform，请填写以下信息完成注册",
     "steps": {
       "basic": "基本信息",
       "additional": "附加信息"

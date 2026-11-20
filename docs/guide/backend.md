@@ -1,6 +1,6 @@
 # 后端说明
 
-FastAPI-Vue-Admin 后端位于 `server/`，当前结构以 `modules/` 为核心，而不是旧文档里的 `apis/`、`models/`、`schemas/` 三层拆分。
+GradTradePlatform 后端位于 `server/`，当前结构以 `modules/` 为核心，而不是旧文档里的 `apis/`、`models/`、`schemas/` 三层拆分。
 
 ## 技术栈
 

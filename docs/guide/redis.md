@@ -2,7 +2,7 @@
 
 ## 概述
 
-FastAPI-Vue-Admin 支持两种 Redis 运行模式：
+GradTradePlatform 支持两种 Redis 运行模式：
 
 - **内存模式（Memory Mode）**：使用内存模拟 Redis，无需安装 Redis 服务器
 - **服务器模式（Server Mode）**：连接真实的 Redis 服务器

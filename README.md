@@ -1,27 +1,27 @@
 <div align="center">
-  <h1>FastAPI-Vue-Admin</h1>
+  <h1>GradTradePlatform</h1>
   <p>基于 FastAPI + Vue 3 + Element Plus 的现代化后台管理系统</p>
   <p>
     <a href="./README.en.md">English</a> | 简体中文
   </p>
   <p>
-    <a href="https://github.com/SonderZhong/FastAPI-Vue-Admin/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/SonderZhong/FastAPI-Vue-Admin" alt="license">
+    <a href="https://github.com/SonderZhong/GradTradePlatform/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/SonderZhong/GradTradePlatform" alt="license">
     </a>
-    <a href="https://github.com/SonderZhong/FastAPI-Vue-Admin/stargazers">
-      <img src="https://img.shields.io/github/stars/SonderZhong/FastAPI-Vue-Admin" alt="stars">
+    <a href="https://github.com/SonderZhong/GradTradePlatform/stargazers">
+      <img src="https://img.shields.io/github/stars/SonderZhong/GradTradePlatform" alt="stars">
     </a>
-    <a href="https://github.com/SonderZhong/FastAPI-Vue-Admin/forks">
-      <img src="https://img.shields.io/github/forks/SonderZhong/FastAPI-Vue-Admin" alt="forks">
+    <a href="https://github.com/SonderZhong/GradTradePlatform/forks">
+      <img src="https://img.shields.io/github/forks/SonderZhong/GradTradePlatform" alt="forks">
     </a>
   </p>
 </div>
 
 ## 📖 简介
 
-FastAPI-Vue-Admin 是一个基于 **FastAPI + Tortoise-ORM + Vue 3 + Element Plus** 的现代化全栈后台管理系统框架，采用前后端分离架构，提供开箱即用的企业级解决方案。
+GradTradePlatform 是一个基于 **FastAPI + Tortoise-ORM + Vue 3 + Element Plus** 的现代化全栈后台管理系统框架，采用前后端分离架构，提供开箱即用的企业级解决方案。
 
-- 📚 [在线文档](https://sonderzhong.github.io/FastAPI-Vue-Admin/)
+- 📚 [在线文档](https://sonderzhong.github.io/GradTradePlatform/)
 - 🎯 [在线演示](https://fva.hygc.site) - 账号：`admin` 密码：`admin123@*`
 - 📡 [API 文档 (Apifox)](https://6cpx06bzzy.apifox.cn)
 - 📡 [API 文档 (内置)](https://fva.hygc.site/api/docs)

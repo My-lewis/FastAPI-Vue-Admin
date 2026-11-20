@@ -30,7 +30,7 @@ def register(mcp):
         app = config.get("app", {})
         return json.dumps(
             {
-                "name": app.get("name", "FastAPI-Vue-Admin"),
+                "name": app.get("name", "GradTradePlatform"),
                 "version": app.get("version", "1.0.0"),
                 "env": app.get("env", "dev"),
                 "host": app.get("host", "0.0.0.0"),

@@ -2,7 +2,7 @@
 chcp 65001 >nul
 
 echo ==========================================
-echo   FastAPI-Vue-Admin Docker 部署
+echo   GradTradePlatform Docker 部署
 echo ==========================================
 
 REM 检查 config.yaml 是否存在

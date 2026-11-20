@@ -5,7 +5,7 @@
 ## 根目录
 
 ```text
-FastAPI-Vue-Admin/
+GradTradePlatform/
 ├── server/                 # 后端服务
 ├── web/                    # 前端项目
 ├── docs/                   # VitePress 文档

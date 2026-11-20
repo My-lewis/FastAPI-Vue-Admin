@@ -423,7 +423,7 @@
    * 打开 GitHub 仓库
    */
   const openGitHub = (): void => {
-    window.open('https://github.com/SonderZhong/FastAPI-Vue-Admin', '_blank')
+    window.open('https://github.com/SonderZhong/GradTradePlatform', '_blank')
   }
 
   /**

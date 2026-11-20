@@ -2,7 +2,7 @@
 
 🎯 **在线演示**: [https://fva.hygc.site](https://fva.hygc.site) - 账号: `admin` 密码: `admin123@*`
 
-📚 **文档地址**: [https://sonderzhong.github.io/FastAPI-Vue-Admin/](https://sonderzhong.github.io/FastAPI-Vue-Admin/)
+📚 **文档地址**: [https://sonderzhong.github.io/GradTradePlatform/](https://sonderzhong.github.io/GradTradePlatform/)
 
 📡 **API 文档**: [Apifox](https://6cpx06bzzy.apifox.cn) | [内置文档](https://fva.hygc.site/api/docs)
 

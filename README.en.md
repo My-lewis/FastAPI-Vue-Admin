@@ -1,27 +1,27 @@
 <div align="center">
-  <h1>FastAPI-Vue-Admin</h1>
+  <h1>GradTradePlatform</h1>
   <p>A modern admin system based on FastAPI + Vue 3 + Element Plus</p>
   <p>
     English | <a href="./README.md">简体中文</a>
   </p>
   <p>
-    <a href="https://github.com/SonderZhong/FastAPI-Vue-Admin/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/SonderZhong/FastAPI-Vue-Admin" alt="license">
+    <a href="https://github.com/SonderZhong/GradTradePlatform/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/SonderZhong/GradTradePlatform" alt="license">
     </a>
-    <a href="https://github.com/SonderZhong/FastAPI-Vue-Admin/stargazers">
-      <img src="https://img.shields.io/github/stars/SonderZhong/FastAPI-Vue-Admin" alt="stars">
+    <a href="https://github.com/SonderZhong/GradTradePlatform/stargazers">
+      <img src="https://img.shields.io/github/stars/SonderZhong/GradTradePlatform" alt="stars">
     </a>
-    <a href="https://github.com/SonderZhong/FastAPI-Vue-Admin/forks">
-      <img src="https://img.shields.io/github/forks/SonderZhong/FastAPI-Vue-Admin" alt="forks">
+    <a href="https://github.com/SonderZhong/GradTradePlatform/forks">
+      <img src="https://img.shields.io/github/forks/SonderZhong/GradTradePlatform" alt="forks">
     </a>
   </p>
 </div>
 
 ## 📖 Introduction
 
-FastAPI-Vue-Admin is a modern full-stack admin framework based on **FastAPI + Tortoise-ORM + Vue 3 + Element Plus**, featuring a separated frontend and backend architecture with an out-of-the-box enterprise solution.
+GradTradePlatform is a modern full-stack admin framework based on **FastAPI + Tortoise-ORM + Vue 3 + Element Plus**, featuring a separated frontend and backend architecture with an out-of-the-box enterprise solution.
 
-- 📚 [Documentation](https://sonderzhong.github.io/FastAPI-Vue-Admin/)
+- 📚 [Documentation](https://sonderzhong.github.io/GradTradePlatform/)
 - 🎯 [Live Demo](https://fva.hygc.site) - Username: `admin` Password: `admin123@*`
 - 📡 [API Docs (Apifox)](https://6cpx06bzzy.apifox.cn)
 - 📡 [API Docs (Built-in)](https://fva.hygc.site/api/docs)

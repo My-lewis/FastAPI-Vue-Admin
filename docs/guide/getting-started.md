@@ -13,7 +13,7 @@
 
 ```bash
 git clone <your-repo-url>
-cd FastAPI-Vue-Admin
+cd GradTradePlatform
 ```
 
 ## 后端启动

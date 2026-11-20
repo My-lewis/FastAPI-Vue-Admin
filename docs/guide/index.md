@@ -2,7 +2,7 @@
 
 ## 简介
 
-FastAPI-Vue-Admin 是一个面向后台管理场景的前后端分离项目，当前技术栈主要包括：
+GradTradePlatform 是一个面向后台管理场景的前后端分离项目，当前技术栈主要包括：
 
 - 后端：FastAPI、Tortoise ORM、Pydantic
 - 前端：Vue 3、TypeScript、Vite、Element Plus、Pinia

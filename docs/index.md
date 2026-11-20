@@ -2,12 +2,12 @@
 layout: home
 
 hero:
-  name: FastAPI-Vue-Admin
+  name: GradTradePlatform
   text: 轻量级全栈后台管理框架
   tagline: 基于 FastAPI、Tortoise ORM、Vue 3 与 Element Plus 的前后端分离管理系统
   image:
     src: /logo.png
-    alt: FastAPI-Vue-Admin
+    alt: GradTradePlatform
   actions:
     - theme: brand
       text: 快速开始
@@ -17,7 +17,7 @@ hero:
       link: /guide/structure
     - theme: alt
       text: GitHub
-      link: https://github.com/SonderZhong/FastAPI-Vue-Admin
+      link: https://github.com/SonderZhong/GradTradePlatform
 
 features:
   - icon: API
@@ -42,7 +42,7 @@ features:
 
 ## 项目说明
 
-FastAPI-Vue-Admin 是一个以后台管理为核心场景的全栈项目模板。当前仓库采用前后端分离结构：
+GradTradePlatform 是一个以后台管理为核心场景的全栈项目模板。当前仓库采用前后端分离结构：
 
 - 后端位于 `server/`
 - 前端位于 `web/`

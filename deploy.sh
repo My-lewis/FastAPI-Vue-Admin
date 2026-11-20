@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# FastAPI-Vue-Admin Docker 部署脚本
+# GradTradePlatform Docker 部署脚本
 
 set -e
 
 echo "=========================================="
-echo "  FastAPI-Vue-Admin Docker 部署"
+echo "  GradTradePlatform Docker 部署"
 echo "=========================================="
 
 # 检查 config.yaml 是否存在

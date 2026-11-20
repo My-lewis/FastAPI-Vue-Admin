@@ -132,7 +132,7 @@ export default defineConfig({
 export default {
   // 系统信息
   systemInfo: {
-    name: 'FastAPI-Vue-Admin',
+    name: 'GradTradePlatform',
     version: '1.0.0'
   },
   
